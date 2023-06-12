@@ -1,5 +1,4 @@
 
-// Write your code here
 2 * 31;
 Math.floor(Math.random() *10) +1;
 36 % 8;
